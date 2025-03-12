@@ -1,1 +1,1 @@
-<h1> Test homei</h1>
+<h1> Test home</h1>
